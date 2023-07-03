@@ -1,0 +1,2 @@
+insert rows of CSV files in DATA directory to a Database
+adatbázosba beszúrni a DATA alkönyvtár CSV állományait

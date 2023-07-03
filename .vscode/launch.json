@@ -27,7 +27,15 @@
       "request": "launch",
       "module": "CSVtoDB",
       "console": "integratedTerminal",
-      "args": ["arg1", "arg2"]
+      "args": []
+    },
+    {
+      "name": "Python: Module",
+      "type": "python",
+      "request": "launch",
+      "module": "colorist",
+      "console": "integratedTerminal",
+      "args": []
     },
     {
       "name": "Python: Attach",
